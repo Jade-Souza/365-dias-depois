@@ -9,6 +9,25 @@ document
 const stars =
 document.querySelector(".stars");
 
+const targetDate =
+new Date("2026-07-20");
+
+const today =
+new Date();
+
+const diff =
+targetDate - today;
+
+const daysRemaining =
+Math.ceil(
+diff / (1000 * 60 * 60 * 24)
+);
+
+document
+.getElementById("daysRemaining")
+.innerText =
+daysRemaining;
+
 for(let i = 0; i < 50; i++){
 
     const star =

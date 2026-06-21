@@ -1,36 +1,104 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
+
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="viewport"
+    content="width=device-width, initial-scale=1.0">
+
     <title>365 Dias Depois</title>
 
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet"
+    href="style.css">
 
-    <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Poppins:wght@300;400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet"
+    href="navbar.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Poppins:wght@300;400;500&display=swap"
+    rel="stylesheet">
+
 </head>
+
 <body>
 
     <div class="stars"></div>
 
-        <main class="container">
+    <main class="container">
 
         <h1>365 dias depois</h1>
 
-        <p class="subtitle">
-            uma mensagem mudou tudo
-        </p>
+        <div class="countdown-box">
 
-        <p class="message">
-            30 envelopes, 30 pedaços do meu coração.
-        </p>
+            <p class="small">
+                Faltam
+            </p>
+
+            <h2 id="daysRemaining">
+                30
+            </h2>
+
+            <p class="small">
+                dias
+            </p>
+
+            <p class="message">
+                para comemorarmos
+                um ano desde que nos conhecemos
+            </p>
+
+            <p class="date">
+                20/07
+            </p>
+
+            <p class="date-text">
+                Nosso dia ❤️
+            </p>
+
+        </div>
 
         <button id="openToday">
             Abrir a carta de hoje 💌
         </button>
 
     </main>
+
+    <nav class="bottom-nav">
+
+        <a href="index.html">
+
+            <span class="icon">🏠</span>
+
+            <span>Início</span>
+
+        </a>
+
+        <a href="calendar.html">
+
+            <span class="icon">📅</span>
+
+            <span>Calendário</span>
+
+        </a>
+
+        <a href="calendar.html">
+
+            <span class="icon">💌</span>
+
+            <span>Cartas</span>
+
+        </a>
+
+        <a href="#" onclick="alert('Disponível em breve ❤️')">
+        <span class="icon">❤️</span>
+        <span>Surpresa</span>
+        </a>
+
+    </nav>
+
     <script src="script.js"></script>
 
 </body>
+
 </html>

@@ -4,6 +4,15 @@ new URLSearchParams(window.location.search);
 const day =
 params.get("day");
 
+
+const remainingDays =
+30 - (Number(day) - 1);
+
+document
+.getElementById("remainingDays")
+.innerHTML =
+`Faltam ${remainingDays} dias ❤️`;
+
 const startDate = new Date("2026-06-20");
 
 const today = new Date();
@@ -45,8 +54,6 @@ document.getElementById("title")
 document.getElementById("content")
 .innerHTML = letter.text;
 
-
-
 const stars =
 document.querySelector(".stars");
 
@@ -68,3 +75,37 @@ for(let i = 0; i < 50; i++){
 
     stars.appendChild(star);
 }
+
+document
+.getElementById("openLetter")
+.addEventListener("click",()=>{
+
+    document
+    .querySelector(".envelope-image")
+    .style.display = "none";
+
+    document
+    .getElementById("openLetter")
+    .style.display = "none";
+
+    const content =
+    document.getElementById("contentContainer");
+
+    content.style.display = "block";
+
+    content.animate(
+    [
+        {
+            opacity:0,
+            transform:"translateY(20px)"
+        },
+        {
+            opacity:1,
+            transform:"translateY(0)"
+        }
+    ],
+    {
+        duration:800,
+        fill:"forwards"
+    });
+});

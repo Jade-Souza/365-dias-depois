@@ -2,17 +2,20 @@ const startDate = new Date("2026-06-20");
 
 const today = new Date();
 
-const diffTime =
-today - startDate;
-
 const diffDays =
 Math.floor(
-    diffTime /
+    (today - startDate) /
     (1000 * 60 * 60 * 24)
 );
 
 const unlockedDays =
-Math.min(diffDays + 1, 30);
+Math.min(
+    Math.max(diffDays + 1, 0),
+    30
+);
+
+const calendar =
+document.getElementById("calendar");
 
 for(let i = 1; i <= 30; i++){
 
@@ -25,8 +28,7 @@ for(let i = 1; i <= 30; i++){
         card.classList.add("opened");
 
         card.innerHTML = `
-            <div class="icon">📨</div>
-            <div class="day">Dia ${i}</div>
+                <div class="day">${i}</div>
         `;
 
         card.addEventListener("click",()=>{
@@ -41,8 +43,7 @@ for(let i = 1; i <= 30; i++){
         card.classList.add("locked");
 
         card.innerHTML = `
-            <div class="icon">🔒</div>
-            <div class="day">Dia ${i}</div>
+            <div class="day">${i}</div>
         `;
     }
 
