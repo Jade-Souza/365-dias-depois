@@ -13,7 +13,7 @@ document
 .innerHTML =
 `Faltam ${remainingDays} dias ❤️`;
 
-const startDate = new Date("2026-06-20");
+const startDate = new Date(2026, 5, 20);
 
 const today = new Date();
 

@@ -1,9 +1,14 @@
-const startDate = new Date("2026-06-20");
+const startDate = new Date(2026, 5, 20); // 20/06/2026
 
-const today = new Date();
+const now = new Date();
 
-const diffDays =
-Math.floor(
+const today = new Date(
+    now.getFullYear(),
+    now.getMonth(),
+    now.getDate()
+);
+
+const diffDays = Math.floor(
     (today - startDate) /
     (1000 * 60 * 60 * 24)
 );

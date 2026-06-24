@@ -246,5 +246,131 @@ const messages = {
         </p>
 
         `
-        },
-};
+    },
+
+    4: {
+
+        title: "Dia 4 🌙",
+
+        text: `
+
+        <p>Meu bem,</p>
+
+        <p>
+        Hoje eu queria falar sobre uma conversa.
+        </p>
+
+        <p>
+        Não uma conversa qualquer.
+        Uma daquelas que ficam guardadas na memória mesmo depois de muito tempo.
+        </p>
+
+        <p>
+        Você começou a me fazer várias perguntas.
+        </p>
+
+        <p>
+        Perguntas sobre mim.
+        Sobre a minha vida.
+        Sobre os meus pensamentos.
+        Sobre coisas que eu normalmente não falava para quase ninguém.
+        </p>
+
+        <p>
+        E o mais engraçado é que você provavelmente esperava respostas simples.
+        Talvez um "sim".
+        Talvez um "não".
+        </p>
+
+        <p>
+        Mas eu respondi com áudios enormes.
+        </p>
+
+        <p>
+        Um atrás do outro.
+        </p>
+
+        <p>
+        E, sem perceber, fui te contando partes de mim que eu costumava deixar escondidas.
+        </p>
+
+        <p>
+        Eu falei sobre a minha sexualidade.
+        Sobre os meus medos.
+        Sobre as minhas dúvidas.
+        Sobre coisas que eu raramente tinha coragem de compartilhar.
+        </p>
+
+        <p>
+        Você foi a primeira pessoa com quem eu consegui falar tão abertamente sobre isso.
+        </p>
+
+        <p>
+        E isso significou muito para mim.
+        </p>
+
+        <p>
+        Porque não é fácil carregar tantas perguntas dentro da gente.
+        Não é fácil amar alguém e ao mesmo tempo ter medo da reação das pessoas que também amamos.
+        </p>
+
+        <p>
+        Você ouviu tudo.
+        </p>
+
+        <p>
+        Sem julgamento.
+        Sem pressa.
+        Sem tentar me mudar.
+        </p>
+
+        <p>
+        E acho que foi naquele momento que alguma coisa mudou dentro de mim.
+        </p>
+
+        <p>
+        Porque, até então, eu sentia que nossas conversas eram leves.
+        Mas também eram superficiais.
+        </p>
+
+        <p>
+        E eu sempre gostei de conversas que vão além da superfície.
+        Daquelas que fazem a gente enxergar quem a outra pessoa realmente é.
+        </p>
+
+        <p>
+        Quando você me fez aquelas perguntas, eu fiquei encantada.
+        </p>
+
+        <p>
+        Não pelas perguntas em si.
+        Mas porque eu percebi que você queria me conhecer de verdade.
+        </p>
+
+        <p>
+        Não apenas a versão fácil.
+        Não apenas a versão que todo mundo vê.
+        </p>
+
+        <p>
+        Você queria conhecer quem eu era por dentro.
+        </p>
+
+        <p>
+        E talvez tenha sido naquele dia que eu comecei a perceber o quanto você era especial.
+        </p>
+
+        <p>
+        Porque poucas pessoas tentam entender.
+        Mas você tentou.
+        </p>
+
+        <p>
+        E eu nunca vou esquecer disso.
+        </p>
+
+        `
+
+    },
+
+    };
