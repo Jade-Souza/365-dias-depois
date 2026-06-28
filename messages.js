@@ -1006,5 +1006,145 @@ const messages = {
 
         },
 
+        9: 
+        {
+
+            title: "Dia 9 💙",
+
+            text: `
+
+            <p>Meu bem,</p>
+
+            <p>
+            Hoje eu queria falar sobre uma das coisas mais malucas da nossa história.
+            </p>
+
+            <p>
+            A intensidade.
+            </p>
+
+            <p>
+            Se alguém de fora olhasse para nós naquela época, provavelmente diria que estávamos indo rápido demais.
+            </p>
+
+            <p>
+            E talvez estivéssemos mesmo.
+            </p>
+
+            <p>
+            Mas a verdade é que nada parecia forçado.
+            </p>
+
+            <p>
+            Simplesmente aconteceu.
+            </p>
+
+            <p>
+            Fazia pouquíssimo tempo que a gente conversava e, de repente, já nos tratávamos como namoradas.
+            </p>
+
+            <p>
+            Os apelidos vieram naturalmente.
+            O carinho veio naturalmente.
+            O cuidado veio naturalmente.
+            </p>
+
+            <p>
+            Era como se, sem perceber, nós duas tivéssemos encontrado um lugar onde fazia sentido ficar.
+            </p>
+
+            <p>
+            Teve até um momento engraçado.
+            </p>
+
+            <p>
+            Você me pediu em namoro.
+            </p>
+
+            <p>
+            E eu lembro de pensar:
+            "Ué... mas a gente já não namora?"
+            </p>
+
+            <p>
+            Porque, para mim, aquilo já era um relacionamento muito antes daquele pedido.
+            </p>
+
+            <p>
+            O pedido só deu um nome para algo que já existia no meu coração.
+            </p>
+
+            <p>
+            E antes mesmo disso teve outra lembrança que eu guardo com muito carinho.
+            </p>
+
+            <p>
+            Nós estávamos em ligação.
+            </p>
+
+            <p>
+            Eu percebi que você quase disse "eu te amo".
+            </p>
+
+            <p>
+            Então resolvi falar primeiro.
+            </p>
+
+            <p>
+            Meu coração estava acelerado.
+            </p>
+
+            <p>
+            Eu já imaginava que aquele momento chegaria.
+            </p>
+
+            <p>
+            Mesmo assim, ouvir aquelas palavras depois fez tudo parecer ainda mais real.
+            </p>
+
+            <p>
+            Acho que foi aí que eu comecei a perceber que amar você também significava enfrentar alguns dos meus maiores medos.
+            </p>
+
+            <p>
+            Eu pensava em como contaria para a minha mãe.
+            Pensava em como seria o nosso futuro.
+            Pensava em tudo.
+            </p>
+
+            <p>
+            E, mesmo com todos esses medos, havia uma certeza.
+            </p>
+
+            <p>
+            Eu queria viver tudo isso com você.
+            </p>
+
+            <p>
+            Hoje eu consigo olhar para trás e perceber que talvez a nossa intensidade tenha feito a gente cometer alguns erros.
+            </p>
+
+            <p>
+            Mas, ao mesmo tempo...
+            </p>
+
+            <p>
+            Foi essa mesma intensidade que fez a nossa história começar.
+            </p>
+
+            <p>
+            Porque algumas pessoas passam anos para descobrir que encontraram alguém especial.
+            </p>
+
+            <p>
+            Nós demoramos apenas alguns dias.
+            </p>
+
+            `
+
+
+        },
+
+
 
     };
