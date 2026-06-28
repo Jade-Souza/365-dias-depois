@@ -487,5 +487,159 @@ const messages = {
 
         },
 
+        6: {
+
+            title: "Dia 6 💙",
+
+            text: `
+
+            <p>Meu bem,</p>
+
+            <p>
+            Acho que hoje é a primeira carta em que eu realmente preciso admitir uma coisa.
+            </p>
+
+            <p>
+            Eu me apaixonei por você.
+            </p>
+
+            <p>
+            Mas não foi de um jeito que acontece nos filmes.
+            </p>
+
+            <p>
+            Não foi por causa de uma declaração.
+            Não foi por um momento perfeito.
+            Não foi porque tudo estava dando certo.
+            </p>
+
+            <p>
+            Na verdade...
+            Acho que foi durante uma das nossas primeiras brigas.
+            </p>
+
+            <p>
+            Eu nem lembro exatamente sobre o que era.
+            </p>
+
+            <p>
+            O que eu lembro é de um áudio seu.
+            </p>
+
+            <p>
+            Um áudio longo.
+            Calmo.
+            Maduro.
+            </p>
+
+            <p>
+            Enquanto eu esperava uma discussão, você escolheu conversar.
+            Enquanto seria fácil responder no impulso, você escolheu me entender.
+            </p>
+
+            <p>
+            E, no meio daquele áudio, você disse:
+            </p>
+
+            <p>
+            "Porque eu amo você..."
+            </p>
+
+            <p>
+            Até hoje eu lembro da forma como você falou essa frase.
+            Da sua voz.
+            Da sua entonação.
+            Da calma que existia naquele momento.
+            </p>
+
+            <p>
+            Naquele instante, eu senti alguma coisa mudar dentro de mim.
+            </p>
+
+            <p>
+            Porque eu percebi que você não queria vencer uma discussão.
+            Você queria cuidar da nossa relação.
+            </p>
+
+            <p>
+            E isso era novo para mim.
+            </p>
+
+            <p>
+            Eu cresci vendo um relacionamento que me fez acreditar que amar também era machucar.
+            Que conversar era gritar.
+            Que ceder era perder.
+            </p>
+
+            <p>
+            Por muito tempo, eu construí uma armadura para nunca viver aquilo.
+            </p>
+
+            <p>
+            Eu não deixava ninguém chegar perto o suficiente para me machucar.
+            </p>
+
+            <p>
+            Mas você foi diferente.
+            </p>
+
+            <p>
+            Sem perceber, você foi tirando essa armadura peça por peça.
+            </p>
+
+            <p>
+            Você me fez confiar.
+            Você me fez acreditar que um amor podia ser leve.
+            </p>
+
+            <p>
+            E, pela primeira vez, eu comecei a imaginar um futuro que também me dava medo.
+            </p>
+
+            <p>
+            Não por sua causa.
+            </p>
+
+            <p>
+            Mas porque amar você significava enfrentar um dos maiores medos da minha vida.
+            O medo de um dia precisar contar para a minha mãe sobre quem eu sou.
+            </p>
+
+            <p>
+            Mesmo assim...
+            Eu continuava imaginando esse futuro.
+            </p>
+
+            <p>
+            Porque você fazia valer a pena enfrentar esse medo.
+            </p>
+
+            <p>
+            Foi aí que eu percebi que pensar em você já não era mais uma escolha.
+            </p>
+
+            <p>
+            Eu imaginava como seria estar ao seu lado.
+            Imaginava como seria viver a nossa vida.
+            Imaginava até como encontraria coragem para enfrentar tudo aquilo.
+            </p>
+
+            <p>
+            E acho que foi nesse momento que eu entendi.
+            </p>
+
+            <p>
+            Eu não estava apenas gostando de você.
+            </p>
+
+            <p>
+            Eu estava aprendendo, pela primeira vez, que amar alguém também podia significar sentir segurança.
+            </p>
+
+            `
+
+        },
+
+
 
     };
