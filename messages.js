@@ -639,6 +639,187 @@ const messages = {
             `
 
         },
+        
+        7: 
+        {
+
+            title: "Dia 7 🎵",
+
+            text: `
+
+            <div class="music-box">
+
+                <p><strong>💙 Antes de continuar...</strong></p>
+
+                <p>
+                    Esse foi o vídeo que eu te mandei naquele dia.
+                    Acho que essa carta faz muito mais sentido depois de assistir ele de novo.
+                </p>
+
+                <a
+                    href="https://www.tiktok.com/@legendasmk/video/7306998286894959877?lang=pt"
+                    target="_blank"
+                    class="music-button">
+
+                    ▶ Ver o vídeo
+
+                </a>
+
+            </div>
+
+            <p>Meu bem,</p>
+
+            <p>
+            Hoje eu queria falar sobre uma música.
+            </p>
+
+            <p>
+            Mas, na verdade, essa carta nunca foi sobre uma música.
+            Sempre foi sobre você.
+            </p>
+
+            <p>
+            Eu estava passando pelo TikTok quando apareceu um vídeo com a tradução de uma música chamada <i>Japanese Denim</i>.
+            </p>
+
+            <p>
+            O que me fez parar não foi a melodia.
+            </p>
+
+            <p>
+            Foram as palavras.
+            </p>
+
+            <p>
+            Eu lembro de ler aquela tradução e pensar em você quase imediatamente.
+            </p>
+
+            <p>
+            Sem pensar muito, eu te mandei o vídeo.
+            </p>
+
+            <p>
+            E uma das coisas que eu mais gosto quando lembro desse dia é que você também sentiu o mesmo.
+            </p>
+
+            <p>
+            Você postou a música no Instagram e me marcou.
+            </p>
+
+            <p>
+            Então eu fiz a mesma coisa.
+            </p>
+
+            <p>
+            Foi um gesto tão simples...
+            </p>
+
+            <p>
+            Mas, sem perceber, nós duas demos um significado completamente novo para aquela música.
+            </p>
+
+            <p>
+            Ela deixou de ser apenas uma música.
+            </p>
+
+            <p>
+            Ela virou uma lembrança.
+            </p>
+
+            <p>
+            O engraçado é que a gente nunca foi o tipo de casal que escutava essa música todos os dias.
+            </p>
+
+            <p>
+            Mesmo assim...
+            </p>
+
+            <p>
+            Toda vez que ela aparece em algum vídeo...
+            No TikTok...
+            No Instagram...
+            Ou em qualquer outro lugar...
+            </p>
+
+            <p>
+            A primeira pessoa que vem à minha cabeça é você.
+            </p>
+
+            <p>
+            E eu gosto de acreditar que acontece exatamente o contrário aí também.
+            </p>
+
+            <p>
+            Tem um trecho daquela tradução que sempre me emociona.
+            </p>
+
+            <p>
+            Não porque ele seja bonito.
+            </p>
+
+            <p>
+            Mas porque, de alguma forma, ele descrevia exatamente o que eu sentia.
+            </p>
+
+            <p>
+            Eu estava me entregando aos poucos.
+            </p>
+
+            <p>
+            Sem perceber.
+            </p>
+
+            <p>
+            Sem planejar.
+            </p>
+
+            <p>
+            Apenas deixando você entrar onde ninguém tinha conseguido entrar antes.
+            </p>
+
+            <p>
+            Hoje, quando essa música toca, ela me leva de volta para o começo da nossa história.
+            </p>
+
+            <p>
+            Para aquela época em que tudo era novidade.
+            </p>
+
+            <p>
+            Quando cada mensagem fazia meu coração acelerar.
+            </p>
+
+            <p>
+            Quando cada ligação parecia durar cinco minutos, mesmo passando horas.
+            </p>
+
+            <p>
+            Quando eu ainda estava descobrindo que você seria uma das pessoas mais importantes da minha vida.
+            </p>
+
+            <p>
+            Talvez existam milhões de pessoas que escutem essa música.
+            </p>
+
+            <p>
+            Mas tenho certeza de uma coisa.
+            </p>
+
+            <p>
+            Sempre que <i>Japanese Denim</i> tocar em algum lugar...
+            </p>
+
+            <p>
+            Eu vou lembrar de você.
+            </p>
+
+            <p>
+            E gosto de acreditar que, do outro lado, você também vai lembrar de mim.
+            </p>
+
+            `
+
+        },
 
 
 

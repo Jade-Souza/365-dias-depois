@@ -224,3 +224,47 @@ button:hover{
 
     text-align:left;
 }
+
+.music-box{
+
+    background: rgba(255,255,255,.08);
+
+    border: 1px solid rgba(255,255,255,.15);
+
+    border-radius: 18px;
+
+    padding: 20px;
+
+    margin-bottom: 30px;
+
+    text-align: center;
+
+}
+
+.music-button{
+
+    display: inline-block;
+
+    margin-top: 15px;
+
+    padding: 12px 22px;
+
+    border-radius: 30px;
+
+    background: #90E0EF;
+
+    color: #03045E;
+
+    text-decoration: none;
+
+    font-weight: 600;
+
+    transition: .3s;
+
+}
+
+.music-button:hover{
+
+    transform: scale(1.05);
+
+}
