@@ -373,4 +373,119 @@ const messages = {
 
     },
 
+    5: {
+
+        title: "Dia 5 💙",
+
+        text: `
+
+        <p>Meu bem,</p>
+
+        <p>
+        Hoje eu queria falar sobre uma coisa que eu demorei para entender.
+        </p>
+
+        <p>
+        A gente costuma perceber o valor de algumas presenças quando a rotina muda.
+        </p>
+
+        <p>
+        E a minha rotina tinha você.
+        </p>
+
+        <p>
+        Todos os dias, por volta de uma da tarde, eu já esperava a sua mensagem do almoço.
+        </p>
+
+        <p>
+        E, quando o relógio se aproximava das cinco e trinta e cinco, eu já imaginava você chegando em casa.
+        </p>
+
+        <p>
+        Era engraçado como isso virou parte dos meus dias sem que eu percebesse.
+        </p>
+
+        <p>
+        Você chegava, me avisava que estava em casa, ia comer, tomava banho... e logo depois já estávamos juntas de novo.
+        </p>
+
+        <p>
+        Às vezes jogando.
+        Às vezes conversando.
+        Às vezes só existindo uma na companhia da outra.
+        </p>
+
+        <p>
+        E, quando a noite chegava, dormir em ligação parecia a coisa mais natural do mundo.
+        </p>
+
+        <p>
+        Até que, por um tempo, eu não tive mais nada disso.
+        </p>
+
+        <p>
+        E foi aí que eu entendi.
+        </p>
+
+        <p>
+        Toda vez que dava uma da tarde, eu pensava em você.
+        </p>
+
+        <p>
+        Toda vez que chegavam cinco e trinta e cinco, eu imaginava você chegando em casa.
+        </p>
+
+        <p>
+        Era como se o meu coração ainda esperasse por uma rotina que já não existia.
+        </p>
+
+        <p>
+        Foi nesse silêncio que eu descobri o tamanho da sua presença.
+        </p>
+
+        <p>
+        Até para dormir era diferente.
+        </p>
+
+        <p>
+        Quando eu estava com você, o sono vinha fácil.
+        </p>
+
+        <p>
+        Quando eu não estava, parecia que alguma coisa estava faltando.
+        As horas passavam e eu continuava acordada, pensando.
+        </p>
+
+        <p>
+        Foi então que eu percebi uma coisa muito simples.
+        </p>
+
+        <p>
+        Mesmo você me enchendo o saco.
+        Mesmo querendo estar comigo o tempo todo.
+        Mesmo fazendo parte de praticamente todos os momentos do meu dia...
+        </p>
+
+        <p>
+        Os meus dias eram melhores por causa disso.
+        </p>
+
+        <p>
+        Porque quando eu não tive a sua presença...
+        Eu descobri o quanto ela fazia falta.
+        </p>
+
+        <p>
+        E acho que foi nesse momento que eu entendi que algumas pessoas deixam de ser apenas companhia.
+        </p>
+
+        <p>
+        Elas acabam se tornando lar.
+        </p>
+
+        `
+
+        },
+
+
     };
