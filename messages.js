@@ -639,7 +639,7 @@ const messages = {
             `
 
         },
-        
+
         7: 
         {
 
@@ -821,6 +821,190 @@ const messages = {
 
         },
 
+        8: 
+        {
+            title: "Dia 8 🌙",
+
+            text: `
+
+            <p>Meu bem,</p>
+
+            <p>
+            Hoje eu queria falar sobre as nossas noites.
+            </p>
+
+            <p>
+            Engraçado pensar que, antes de você, eu era uma das pessoas que dizia que nunca conseguiria ter um relacionamento à distância.
+            </p>
+
+            <p>
+            Eu até julgava quem dormia em chamada.
+            </p>
+
+            <p>
+            E olha só onde eu vim parar.
+            </p>
+
+            <p>
+            A culpa foi toda sua.
+            </p>
+
+            <p>
+            Foi você quem teve a ideia de dormir em ligação.
+            </p>
+
+            <p>
+            No começo, aquilo parecia estranho para mim.
+            </p>
+
+            <p>
+            Mas bastou uma noite para virar um costume.
+            </p>
+
+            <p>
+            Depois disso, os nossos dias passaram a ter uma rotina.
+            </p>
+
+            <p>
+            Eu esperava você chegar do trabalho.
+            </p>
+
+            <p>
+            A gente jogava.
+            </p>
+
+            <p>
+            Às vezes só nós duas.
+            Às vezes com as minhas amigas.
+            </p>
+
+            <p>
+            E, sem perceber, onze e meia da noite virou um horário especial.
+            </p>
+
+            <p>
+            Era a hora em que você praticamente me obrigava a largar o celular para irmos dormir.
+            </p>
+
+            <p>
+            A gente deitava.
+            Conversava sobre qualquer coisa.
+            Contava as fofocas do dia.
+            Às vezes assistia alguma coisa.
+            Às vezes só ficava em silêncio.
+            </p>
+
+            <p>
+            Mas o melhor de tudo é que ninguém desligava a ligação.
+            </p>
+
+            <p>
+            A chamada simplesmente continuava enquanto a gente dormia.
+            </p>
+
+            <p>
+            E, quando acordávamos, quem levantasse primeiro desligava.
+            </p>
+
+            <p>
+            Pelo menos durante a semana.
+            </p>
+
+            <p>
+            Porque, no fim de semana...
+            </p>
+
+            <p>
+            Eu acordo primeiro.
+            </p>
+
+            <p>
+            E você sabe muito bem o que acontece.
+            </p>
+
+            <p>
+            Eu fico chamando o seu nome sem parar até você acordar.
+            </p>
+
+            <p>
+            E eu adoro fazer isso justamente porque sei que você fica brava.
+            </p>
+
+            <p>
+            Acho que uma das lembranças mais engraçadas que eu tenho foi acordar depois da nossa primeira noite em chamada.
+            </p>
+
+            <p>
+            A primeira coisa que passou pela minha cabeça foi:
+            "Meu Deus... eu estou fazendo exatamente aquilo que eu sempre julguei."
+            </p>
+
+            <p>
+            E, sinceramente...
+            </p>
+
+            <p>
+            Eu faria tudo de novo.
+            </p>
+
+            <p>
+            Porque dormir em ligação nunca foi sobre uma chamada.
+            </p>
+
+            <p>
+            Sempre foi sobre sentir você perto de mim.
+            </p>
+
+            <p>
+            E nos dias em que a gente brigava e não dormia juntas...
+            </p>
+
+            <p>
+            Minha cabeça virava um verdadeiro turbilhão.
+            </p>
+
+            <p>
+            Eu pensava em tudo.
+            Repassava cada conversa.
+            Cada palavra.
+            Cada silêncio.
+            </p>
+
+            <p>
+            O sono simplesmente demorava para chegar.
+            </p>
+
+            <p>
+            Foi aí que eu percebi uma coisa.
+            </p>
+
+            <p>
+            Você tinha se tornado parte da minha paz.
+            </p>
+
+            <p>
+            Hoje eu descobri que lar não é um lugar.
+            </p>
+
+            <p>
+            Lar são os nossos momentos.
+            As nossas implicâncias.
+            As nossas brincadeiras.
+            As nossas conversas sem sentido.
+            Até as nossas pequenas brigas.
+            </p>
+
+            <p>
+            Porque, no fim das contas...
+            </p>
+
+            <p>
+            O meu lar sempre acaba sendo qualquer lugar onde, de alguma forma, eu posso estar com você.
+            </p>
+
+            `
+
+        },
 
 
     };
